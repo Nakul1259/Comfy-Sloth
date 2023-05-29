@@ -1,0 +1,43 @@
+.subtotal-component{
+    border: 1px solid lightgray;
+    margin: 5rem 0 8rem 0;
+    width: 25rem;
+    height: 12rem;
+    float: right; 
+    border-radius: 5px;   
+}
+
+.subtotal-items{
+    padding: 1.5rem 3rem;
+
+}
+
+.subtotal{
+    font-size: 18px;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.shipping{
+    /* font-size: 18px; */
+    opacity: 0.8;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.order{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+    letter-spacing: 2px;
+}
+
+.order-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

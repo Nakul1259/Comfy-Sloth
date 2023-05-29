@@ -1,0 +1,22 @@
+.location{
+    /* height: 8.5rem; */
+    background-color: #eaded7;
+}
+
+.location h1{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    /* margin-left: 10rem; */
+    width: 78vw;
+    color: rgb(69,50,39);
+    min-width: 800px;
+    padding:3rem 0.5rem;
+    letter-spacing: 3px;
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+.location span a{
+    color: #795744;
+}

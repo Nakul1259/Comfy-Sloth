@@ -1,0 +1,25 @@
+
+.footer-section{
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    background-color: #222;
+    height: 5rem;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+    margin-top: 3rem;
+}
+
+.footer-section h4{
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.footer-section span{
+color: #ab7a5f;
+}
